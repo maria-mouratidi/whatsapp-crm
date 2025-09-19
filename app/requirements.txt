@@ -1,0 +1,9 @@
+aiohttp==3.9.1
+dateparser==1.2.0
+editdistance==0.6.2
+fastapi==0.111.0
+openai==1.33.0
+pydantic==2.7.1
+python-dotenv==1.0.1
+Requests==2.31.0
+uvicorn==0.29.0
