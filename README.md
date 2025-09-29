@@ -2,5 +2,5 @@
 WhatsApp-integrated lead management system with automated follow-up scheduling and reminder notifications
 
 ![Demo](demo/add.gif)
-![Demo](demo/retrieve.gif)
+<!-- ![Demo](demo/retrieve.gif) -->
 
