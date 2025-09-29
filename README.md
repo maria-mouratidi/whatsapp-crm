@@ -8,5 +8,6 @@ The demo below shows the "add reminders" flow, where the user pastes some info f
 
 
 The demo below shows the "retrieve reminders" flow where the user checks in for any urgent conversations to go back to. There is reasoning component that helps the user identify whether their priorities align with the agent, but it is optional.
+
 ![Demo](demo/retrieve.gif)
 
